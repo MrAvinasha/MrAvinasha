@@ -1,6 +1,4 @@
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">I'm Avinash Thennakoon</h1>
- 
 <h2 align="center">Web & Mobile App Developer</h2>
  <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
@@ -28,13 +26,15 @@
 <tr border="none">
 <td width="50%" align="left">
 
+
+- 👨‍💻 Software Engineering Undergraduate at **Open University of Sri Lanka**
 - 🌱 I’m currently learning **react js/Java/C++**
-- 👨‍💻 Software Engineering Undergraduate at **The Open University of Sri Lanka**
-- 📫 How to reach me **avinashthennakoon.sl@gmail.com**
 - 💬 Ping me about **vue**, **fullstack**, **development**, **design**
-- ⚡ Fun fact **Call Me As Avinash**
-- 💬   Ask me about anything, I am happy to help
+- 📫 How to reach me **avinashthennakoon.sl@gmail.com**
+- 🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..
 - 🤔 I’m looking for a good project
+- 💬 Ask me about anything, I am happy to help
+- ⚡ Fun fact **Call Me As Avinash**
 
 </td>
 <td  width="455" align="center">
@@ -43,7 +43,9 @@
 </tr>
 </table>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Connect with Me</b>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Connect With Me</b>
+
 <p align="left">
 <a href="https://linkedin.com/in/avinash thennakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avinash thennakoon" height="60" width="60" /></a>
 <a href="https://fb.com/avinash thennakoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avinash thennakoon" height="55" width="60" /></a>
@@ -56,12 +58,15 @@
 <br>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrAvinasha&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrAvinasha&theme=dracula&column=8" alt="andermendoza" /></a> </p>
 
 
 ![3D Profile](https://github.com/JayantGoel001/JayantGoel001/blob/master/profile-3d-contrib/profile-night-rainbow.svg)
 
 <h4 align="center">
+
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=MrAvinasha&theme=react-dark&hide_border=true&area=true)
 
 
 <br>
@@ -72,6 +77,5 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrAvinasha=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 
