@@ -62,7 +62,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrAvinasha&theme=dracula&column=8" alt="andermendoza" /></a> </p>
 
 
-![3D Profile](https://github.com/MrAvinasha/MrAvinasha/blob/master/profile-3d-contrib/profile-night-rainbow.svg) 
 
 <h4 align="center">
 
