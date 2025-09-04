@@ -28,7 +28,7 @@
 
 
 - 👨‍💻 Software Engineering Undergraduate at **Open University of Sri Lanka**
-- 🌱 I’m currently learning **react js/Java/C++**
+- 🌱 I’m currently learning **react js/Java/Rust**
 - 💬 Ping me about **vue**, **fullstack**, **development**, **design**
 - 📫 How to reach me **avinashthennakoon.sl@gmail.com**
 - 🚀 Journeying Through: Currently diving deep into the freeCodeCamp ocean..
