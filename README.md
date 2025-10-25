@@ -59,7 +59,7 @@
 <br>
 
 <!-- TROFEOS GITHUB -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrAvinasha&theme=dracula&column=8" alt="andermendoza" /></a> </p>
+
 
 
 <h4 align="center">
